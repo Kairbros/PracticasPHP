@@ -9,6 +9,8 @@ En php.ini activar
 ```shell
 ;extension=fileinfo
 ;extension=zip
+;extension=pdo_mysql (para mysql)
+;extension=mysqli (para mysql)
 ```
 
 removiendo ";"
@@ -35,3 +37,17 @@ laravel new mi-proyecto
 ```
 
 seleccionando react y laravel
+
+# Primera línea importante
+
+```shell
+Route::inertia('/', 'welcome')->name('home');
+```
+
+![Explicacion](images/image-1.png)
+
+### ¿Qué significa?
+
+Route::inertia() crea una ruta que, en lugar de devolver una vista Blade, devuelve un componente de React mediante Inertia.
+
+![alt text](images/image.png)
