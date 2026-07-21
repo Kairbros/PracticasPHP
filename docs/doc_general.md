@@ -1,5 +1,21 @@
 # React + Laravel: Comunicación con el Backend (Guía de Referencia)
 
+```
+code --install-extension continue.continue
+code --install-extension anthropic.claude-code
+code --install-extension cweijan.vscode-database-client2
+code --install-extension cweijan.dbclient-jdbc
+code --install-extension rangav.vscode-thunder-client
+code --install-extension ms-azuretools.vscode-containers
+code --install-extension bierner.markdown-mermaid
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension esbenp.prettier-vscode
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension open-southeast.laravel-pint
+```
+
+
 ## Índice
 
 1. Arquitecturas de Laravel
