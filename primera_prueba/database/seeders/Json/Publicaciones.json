@@ -1,0 +1,14 @@
+{
+    "publicaciones": [
+        {
+            "titulo": "Ralsei",
+            "descripcion": "Imagen De Ralsei",
+            "ruta_archivo": "Publicaciones/ralsei.png"
+        },
+        {
+            "titulo": "Banco",
+            "descripcion": "PDF del banco",
+            "ruta_archivo": "Publicaciones/banco.pdf"
+        }
+    ]
+}
