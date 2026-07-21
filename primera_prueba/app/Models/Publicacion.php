@@ -15,5 +15,5 @@ class Publicacion extends Model
     protected $table = 'publicaciones';
 
     // Columnas que se pueden llenar con create()/update() pasando un array.
-    protected $fillable = ['titulo', 'descripcion', 'ruta_archivo'];
+    protected $fillable = ['titssssulo', 'descripcion', 'ruta_archivo'];
 }
